@@ -200,7 +200,7 @@ library(countrycode)
 library(maps)
 
 names(df_total)
-df_clusters <- df_total[,c(1,30)]
+df_clusters <- df_total[,c(1,29)]
 
 df_clusters$iso3 <- countrycode(df_clusters$country, "country.name", "iso3c")
 
