@@ -16,7 +16,7 @@ La estructura del directorio es la siguiente:
 
 En el siguiente enlace encontrarás un panel de visualización que ha sido creado con Power Bi:
 
-<a href="https://app.powerbi.com/links/mtofbEw5LI?ctid=bcd2701c-aa9b-4d12-ba20-f3e3b83070c1&pbi_source=linkShare">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODE3MjhjYzItYjdjZi00ZmViLTg4ZTItOTVlZTJmZjBjYWFhIiwidCI6ImJjZDI3MDFjLWFhOWItNGQxMi1iYTIwLWYzZTNiODMwNzBjMSIsImMiOjh9>">
   <img src="https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520997b070623819cfea2f02d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b" alt="PowerBI">
 </a>
 
@@ -94,7 +94,29 @@ Finalmente se creó un excel con cuatro hojas donde se incluyó los datos a limp
 
 
 
-Aquí las visualizaciones finales del Dashboard de Power BI 
+Aquí las visualizaciones finales del Dashboard de Power BI: 
+
+![image](https://github.com/PaulaPRamirez/Genderequality_InternationalMigration/assets/134306954/a1d8eb10-4f5a-4cb5-8c20-9536182502d6)
+
+<br>
+
+![image](https://github.com/PaulaPRamirez/Genderequality_InternationalMigration/assets/134306954/2e040006-3cde-4116-bcdf-0676279dfe4a)
+
+<br>
+
+![image](https://github.com/PaulaPRamirez/Genderequality_InternationalMigration/assets/134306954/b9f2dd3d-448c-4ebf-8700-c415ecfcf160)
+
+<br>
+
+![image](https://github.com/PaulaPRamirez/Genderequality_InternationalMigration/assets/134306954/bb0bd1f7-7f16-4443-9a62-e6fa55c57dfc)
+
+
+<br>
+
+
+
+
+
 
 
 
