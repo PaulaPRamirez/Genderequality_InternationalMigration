@@ -14,13 +14,23 @@ La estructura del directorio es la siguiente:
 - Scripts: contiene los scripts de R
 - Visualization: contiene las gráficas obtenidas a través del análisis explotatorio de variables así como el mapa realizado con la clusterización. 
 
-En el siguiente enlace encontrarás un panel de visualización que ha sido creado con Power Bi: 
+En el siguiente enlace encontrarás un panel de visualización que ha sido creado con Power Bi:
 
-https://app.powerbi.com/links/mtofbEw5LI?ctid=bcd2701c-aa9b-4d12-ba20-f3e3b83070c1&pbi_source=linkShare
+<a href="https://app.powerbi.com/links/mtofbEw5LI?ctid=bcd2701c-aa9b-4d12-ba20-f3e3b83070c1&pbi_source=linkShare">
+  <img src="https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520997b070623819cfea2f02d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b" alt="PowerBI">
+</a>
 
+<br><br>
 
 Sobre los datos:
 -------------------
+
+<p float="left">
+  <img src="https://github.com/PaulaPRamirez/Genderequality_InternationalMigration/assets/134306954/5d527be1-c37c-485c-936b-d3082e6cd935" height="70" />
+  <img src="https://github.com/PaulaPRamirez/Genderequality_InternationalMigration/assets/134306954/1a5dcf70-9d9c-4d53-999d-ffe4edb8cb9e" height="70" />
+  <img src="https://github.com/PaulaPRamirez/Genderequality_InternationalMigration/assets/134306954/ee7ace15-57ca-448f-bc60-7c1e763bb0c8" height="70" />
+  <img src="https://github.com/PaulaPRamirez/Genderequality_InternationalMigration/assets/134306954/9662071b-f5c6-4702-b810-6a8dae4190ab" height="70" />
+</p>
 
 ### Raw data
 
@@ -53,6 +63,7 @@ Sobre los datos:
 - Child_marriage_law: igual edad de matrimonio o no, siendo 0 igual y 1 desigual
 - Girls_married: % de niñas casadas, divorciadas, viudas o en unión informal
 
+<br>
 
 ### Processed data
 
@@ -68,6 +79,7 @@ Una vez se llevó a cabo la limpieza de los datasets se obtuvieron los siguiente
 
 **Migration_regions**: con el número de migrantes por region de destino. Este fue usado posteriormente para las visualizaciones en Power Bi. 
 
+<br>
 
 ### Final data
 
@@ -82,8 +94,7 @@ Finalmente se creó un excel con cuatro hojas donde se incluyó los datos a limp
 
 
 
-
-
+Aquí las visualizaciones finales del Dashboard de Power BI 
 
 
 
