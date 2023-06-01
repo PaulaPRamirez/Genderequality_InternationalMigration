@@ -16,7 +16,7 @@ La estructura del directorio es la siguiente:
 
 En el siguiente enlace encontrarás un panel de visualización que ha sido creado con Power Bi:
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiODE3MjhjYzItYjdjZi00ZmViLTg4ZTItOTVlZTJmZjBjYWFhIiwidCI6ImJjZDI3MDFjLWFhOWItNGQxMi1iYTIwLWYzZTNiODMwNzBjMSIsImMiOjh9>">
+<a href="https://app.powerbi.com/reportEmbed?reportId=134b0125-6a9a-4fe0-8f07-0a0cc3f0b4d6&autoAuth=true&ctid=bcd2701c-aa9b-4d12-ba20-f3e3b83070c1">
   <img src="https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520997b070623819cfea2f02d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b" alt="PowerBI">
 </a>
 
