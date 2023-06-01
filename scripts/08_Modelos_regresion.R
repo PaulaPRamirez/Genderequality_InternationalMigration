@@ -384,7 +384,6 @@ modelo <- rpart(female_immigrants ~ ., data = train_data, control = rpart.contro
 #visualizamos el arbol
 rpart.plot(modelo, extra=1, cex=0.55)
 
-
 # Realizamos las predicciones sobre los datos de prueba
 predicciones <- predict(modelo, newdata=test_data)
 
